@@ -1,0 +1,87 @@
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\ZedGraph.Web.dll
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\UART\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\ZedGraph.Web.dll
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\ZedGraph.Web.dll
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\sample\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Debug\ZedGraph.Web.dll
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\speed_stm(season_3)-2 mode\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\bin\Debug\ZedGraph.Web.dll
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\UI\InterfacePC\InterfacePC\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\bin\Debug\ZedGraph.Web.dll
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\UI_temporary\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\bin\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\bin\Debug\InterfacePC.pdb
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\bin\Debug\ZedGraph.Web.dll
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\obj\Debug\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\obj\Debug\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\obj\Debug\InterfacePC.exe
+C:\Users\admin\Desktop\Code_New_version\InterfacePC\InterfacePC\obj\Debug\InterfacePC.pdb

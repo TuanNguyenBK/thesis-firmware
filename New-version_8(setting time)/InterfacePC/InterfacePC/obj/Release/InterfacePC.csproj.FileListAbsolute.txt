@@ -1,0 +1,205 @@
+D:\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+D:\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+D:\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+D:\InterfacePC\InterfacePC\obj\Release\InterfacePC.frmMain.resources
+D:\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+D:\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+D:\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+D:\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\obj\Release\InterfacePC.frmMain.resources
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+E:\C\Documents\LAP TRINH PIC16F877A CCS\BAI 37 - BIEU DIEN DU LIEU NHIET DO TU CAM BIEN LM35 LEN DO THI DUNG C#\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+D:\C\Documents\LAP TRINH\PIC16F877A\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+D:\C\Documents\LAP TRINH\PIC16F877A\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+D:\C\Documents\LAP TRINH\PIC16F877A\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+D:\C\Documents\LAP TRINH\PIC16F877A\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+D:\C\Documents\LAP TRINH\PIC16F877A\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+D:\C\Documents\LAP TRINH\PIC16F877A\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.Cache
+D:\C\Documents\LAP TRINH\PIC16F877A\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+D:\C\Documents\LAP TRINH\PIC16F877A\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+D:\DO AN\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\BAI 107 - LAP TRINH DO THI TOC DO DONG CO DC VOI PIC16F877A\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\DO TOC DO\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\full_2(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\full_3(chay theo gia tri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\EXP\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\full_4(chay gtri dat va PID)_speed&pos - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\full_5(chay gtri dat va PID)_speed&pos_upgrate - Copy\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_2_speed\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\du tru\EVALUTION\upgrate_2_1_3(ngon)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1_5(ngon_float_PID)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat)\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_3)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+C:\Users\admin\Desktop\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csprojAssemblyReference.cache
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Form1.resources
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.Properties.Resources.resources
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.GenerateResource.cache
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CoreCompileInputs.cache
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.exe
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.pdb
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.exe
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\bin\Release\InterfacePC.pdb
+D:\bk\hk172\Do_an\codeC\upgrate_2_1(new_chay theo giatri dat_9)_chay duoc\DO TOC DO(BAI 107)_P2\InterfacePC\InterfacePC\obj\Release\InterfacePC.csproj.CopyComplete
